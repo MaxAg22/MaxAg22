@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PabloMaximoAguero/PabloMaximoAguero/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/MaxAg22/MaxAg22/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 
 ###
