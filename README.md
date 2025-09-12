@@ -42,7 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MaxAg22/MaxAg22/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
-
-
 ###
