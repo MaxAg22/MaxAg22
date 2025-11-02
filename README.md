@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk2cHZmZzJld2xrbDMzamIzMml2enJ4czdwaHVvYjdmN2RkcDAxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO4UHglOY2vII/giphy.gif"/>
+<img align="right" height="230px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk2cHZmZzJld2xrbDMzamIzMml2enJ4czdwaHVvYjdmN2RkcDAxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO4UHglOY2vII/giphy.gif"/>
 
 ### About Me  
 - 🎓 Currently studying a Bachelor's degree in Computer Science (3rd year).  
