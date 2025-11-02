@@ -1,49 +1,33 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AAFAE&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxAg22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxAg22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>  
+---
 
+<br>
 
+  <img align="right" height="270px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk2cHZmZzJld2xrbDMzamIzMml2enJ4czdwaHVvYjdmN2RkcDAxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO4UHglOY2vII/giphy.gif"/>
 
+### I am a Computer Science Student
+- 🎓 Currently studying a Bachelor's degree in Computer Science (3rd year).
+- 🚀 My goal for 2025 is to build my own web development projects and dive into Artificial Intelligence.
+- 💡 Passionate about learning new technologies and improving every day as a developer.
+- 🤝 I enjoy working in teams, sharing ideas, and learning from others to build better solutions together.
+- 👨‍💻 I’m always looking for new challenges and opportunities to grow.
+- ⚡ 23 years old and loving the process of turning ideas into code.
 
+<br>
 
+---
 
-###
+### Github Stats
 
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/maximo-ag%C3%BCero-a6a044361/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<p align="center">
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxAg22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxAg22&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  
-  <a href="maximo.aguero@mi.unc.edu.ar" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-###
