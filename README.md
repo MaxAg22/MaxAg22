@@ -1,18 +1,13 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AAFAE&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
-  </a>
-</div>
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"> Hi, I'm Max  
 </h3>
 
-<p align="center">
-  💼 Computer Science Student
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student!" alt="Typing SVG" /></a>
+</div>
 
 ---
+<br>
 
 <div align="center">
 
@@ -22,7 +17,6 @@
 💡 Passionate about learning new technologies and improving every day as a developer.  
 🤝 I enjoy working in teams, sharing ideas, and learning from others to build better solutions together.  
 
-
 </div>
 
 <p align="center">
@@ -30,7 +24,7 @@
 </p>
 
 ---
-
+<br>
 <h3 align="center">⚒ Languages and Tools</h3>
 
 <p align="center" style="text-decoration:none;"> 
@@ -66,7 +60,7 @@
   </a> 
 </p>
 
----
+<br>
 
 <h3 align="center">⚙️ GitHub Stats  </h3>
 
@@ -76,5 +70,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxAg22&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
----
