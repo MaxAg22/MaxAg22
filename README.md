@@ -6,18 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student!" alt="Typing SVG" /></a>
 </div>
 
----
 <br>  
-
-<div align="center">
-
-### About Me  
-🎓 Currently studying a Bachelor's degree in Computer Science (3rd year).  
-🚀 My goal for 2025 is to build my own web development projects and dive into Artificial Intelligence.  
-💡 Passionate about learning new technologies and improving every day as a developer.  
-🤝 I enjoy working in teams, sharing ideas, and learning from others to build better solutions together.  
-
-</div>
 
 <p align="center">
   <img align="center" height="230px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk2cHZmZzJld2xrbDMzamIzMml2enJ4czdwaHVvYjdmN2RkcDAxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO4UHglOY2vII/giphy.gif"/>
