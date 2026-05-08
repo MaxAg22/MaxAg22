@@ -4,7 +4,7 @@ I'm a Computer Analyst and Programming Technician from Córdoba, Argentina. I ha
 
 ### Technologies & Tools
 - **Programming Languages:** Python, JavaScript, PHP
-- **Technologies & Tools:** SQL, REST APIs, React, Django
+- **Technologies & Tools:** SQL, REST APIs, React
 
 ---
 
