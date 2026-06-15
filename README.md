@@ -1,6 +1,7 @@
 # Hi! I'm Máximo
 
-I'm a Computer Analyst and Programming Technician from Córdoba, Argentina. I'm a Computer Science student at Facultad de Matemática, Astronomía, Física y Computación (FAMAF).
+- Computer Analyst and Programming Technician.
+- Computer Science student at Facultad de Matemática, Astronomía, Física y Computación (FAMAF).
 
 ### Technologies & Tools
 - **Programming Languages:** Python, JavaScript, PHP
