@@ -1,13 +1,5 @@
-# Hi! I'm Máximo
-
-- Computer Analyst and Programming Technician.
-- Computer Science student at Facultad de Matemática, Astronomía, Física y Computación (FAMAF).
-
-### Technologies & Tools
-- **Programming Languages:** Python, JavaScript, PHP
-- **Technologies & Tools:** SQL, REST APIs, React
-
----
+# Hi, I'm Máximo Agüero
+**Computer Science Student at [FaMAF - UNC](https://www.famaf.unc.edu.ar/)**
 
 ### GitHub Stats
 
